@@ -1,2 +1,3 @@
-#Machine Learning course by Stanford in Coursera
-Solutions of Stanford Machine Learning Course on Coursera
+# Machine Learning course by Stanford in Coursera
+
+## Solutions of Stanford Machine Learning Course in Coursera
